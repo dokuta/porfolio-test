@@ -7,6 +7,12 @@ A simple and responsive portfolio page using HTML, CSS and Javascript, based on 
 - Services section
 - Social links and contact section
 
+## Built With
+- HTML
+- CSS
+- Javascript
+- Git
+
 ## References
  - [Pro Coder](https://www.youtube.com/@procoder09)
  - [Create A Responsive Portfolio Website Using HTML CSS and JS - STEP BY STEP TUTORIAL](https://www.youtube.com/watch?v=xtK57s6QN28)
